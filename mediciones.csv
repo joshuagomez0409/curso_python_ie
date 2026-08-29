@@ -1,7 +1,10 @@
-tiempo_s,voltaje_v,corriente_a
-0.0,218.5,4.8
-0.5,221.2,5.1
-1.0,224.8,5.5
-1.5,219.0,4.9
-2.0,230.1,6.2
-2.5,227.4,5.8
+timestamp,subestacion,voltaje_v,corriente_a,frecuencia_hz
+2026-08-29 08:00,Subestacion_Norte,230.2,45.1,60.01
+2026-08-29 08:15,Subestacion_Norte,228.9,48.3,59.98
+2026-08-29 08:30,Subestacion_Norte,225.1,55.0,59.95
+2026-08-29 08:45,Subestacion_Norte,218.4,62.4,59.90
+2026-08-29 09:00,Subestacion_Norte,215.0,68.1,59.88
+2026-08-29 09:15,Subestacion_Sur,231.0,30.2,60.02
+2026-08-29 09:30,Subestacion_Sur,230.5,31.5,60.01
+2026-08-29 09:45,Subestacion_Sur,229.8,33.0,60.00
+2026-08-29 10:00,Subestacion_Sur,222.1,41.2,59.92
